@@ -1,4 +1,4 @@
-/* styles.css */
+
 .calendar {
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -14,7 +14,7 @@
     align-items: center;
     margin-bottom: 20px;
     padding: 20px;
-    background-color: dimgray;
+    background-color: #757a79;
     color: #fff;
 }
 
@@ -28,7 +28,7 @@
     grid-template-columns: repeat(7, 1fr);
     gap: 6px;
     padding: 23px;
-    background-color: #737175;
+    background-color: #aeccc6;
 }
 
 .day {
